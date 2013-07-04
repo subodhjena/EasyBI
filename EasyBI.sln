@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "EasyBI", "EasyBI\EasyBI.dtproj", "{BD82DB97-4310-4597-9C7F-0F514D58A322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD82DB97-4310-4597-9C7F-0F514D58A322}.Development|Default.ActiveCfg = Development
+		{BD82DB97-4310-4597-9C7F-0F514D58A322}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

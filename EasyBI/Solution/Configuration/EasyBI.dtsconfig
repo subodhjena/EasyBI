@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="EasyBI" GeneratedFromPackageName="EasyBI SSIS Framework" GeneratedFromPackageID="{3C66D116-EF39-4EEC-BE14-2E88F2AB6498}" GeneratedDate="6/15/213 12:00:00 AM"/>
+	</DTSConfigurationHeading>
+	<Configuration 	ConfiguredType="Property" Path="\Package.Connections[cnAudit].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=PRIANCA;Initial Catalog=EasyBI;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>
